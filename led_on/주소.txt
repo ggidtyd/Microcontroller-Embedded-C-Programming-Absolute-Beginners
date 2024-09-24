@@ -1,0 +1,8 @@
+Address of the Clock control register (AHB2ENR)
+0x4002 1000 (RCC) + 0x4C => 0x4002104C
+
+Address of the GPIOA mode register (used to control mode)
+0x4800 0000 + 0x00 => 0x48000000
+
+Address of the GPIOA output data register (used to write)
+0x4800 0000 + 0x14 => 0x48000014
